@@ -7,18 +7,24 @@ Flexbox skills demonstrated: creating and manipulating flex containers and items
 
 Photo Attribution
 Lizard Logo:
-    Grafik: Guido Gerding, CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons
+    Grafik: Guido Gerding, CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons.
+
 Lizard Photo:
-    Manurathalis, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons
+    Manurathalis, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons.
+    Image has been cropped
+
 Bearded Dragon Photo:
-    Ssfadia, CC BY 4.0 <https://creativecommons.org/licenses/by/4.0>, via Wikimedia Commons
+    Ssfadia, CC BY 4.0 <https://creativecommons.org/licenses/by/4.0>, via Wikimedia Commons.
     Image has been cropped to square
+
 Skink Photo:
-    Benjamint444, CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons
+    Benjamint444, CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons.
     Image has been cropped to square
+
 Chameleon Photo:
-    Charles J. Sharp, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons
+    Charles J. Sharp, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons.
     Image has been cropped to square
+
 Komodo Dragon Photo:
-    NAPARAZZI, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons
+    NAPARAZZI, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons.
     Image has been cropped to square
